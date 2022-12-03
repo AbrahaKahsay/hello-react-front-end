@@ -35,7 +35,8 @@ To get a local copy up and running follow these simple example steps.
 - Change the directory you want put the repo
 - Finally run git clone https://github.com/AbrahaKahsay/hello-react-front-end.git follwed by cd repo-name/
 - add "proxy": "http://localhost:3001" to configure the api end points
-- run hello-rails-back-end using "rails s -p 3001" 
+- run hello-rails-back-end using "rails s -p 3001"
+- run heloo-react-fron-end usisng "npm start"
 
 ### Install
 
